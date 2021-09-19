@@ -183,7 +183,7 @@
 
     <section class="footer">
         <div class="container text-center">
-            <p>All rights reserved. Designed By <a href="#">a random guy on Youtube</a></p>
+            <p>All rights reserved. Designed By <a href="#">Loi</a></p>
         </div>
     </section>
 
